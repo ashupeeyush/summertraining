@@ -1,0 +1,31 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 18 10:52:17 2018
+
+@author: Peeyush Goyal
+"""
+[{
+   "First_Name":"Ashu",
+   "Last_Name":"Goyal",
+   "Photo":"https://codehandbook.org/create-json-using-python-flask/",
+   "Department":"IT",
+   "Research_Area":["CSE","cons"],
+   "Contact_Details" : "+91531344412"
+    },
+    {
+    "First_Name":"Peeyush",
+    "Last_Name":"Goyal",
+    "Photo":"https://codehandbook.org/create-json-using-python-flask/",
+    "Department":"ECE",
+    "Research_Area":["Electrical","unit"],
+    "Contact_Details" : "+9153135612"
+    },
+    {
+    "First_Name":"Ashu",
+    "Last_Name":"Goyal",
+    "Photo":"https://codehandbook.org/create-json-using-python-flask/",
+    "Department":"civil",
+    "Research_Area":["Roads","signals"],
+    "Contact_Details" : "+91531344412"
+     }
+]
